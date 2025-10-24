@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "fundName": "Meezan Paidaar Munafa Plan XXVII",
+    "category": "Income Fund",
+    "manager": "Meezan Asset Management",
+    "nav": 50.37,
+    "aum": "6.77B",
+    "performance": {
+      "1Y": "10.5%",
+      "3Y": "25%",
+      "5Y": "45%"
+    },
+    "riskProfile": "Low",
+    "shariah": "Islamic",
+    "fundType": "Mutual Fund"
+  },
+  {
+    "id": 2,
+    "fundName": "ABL Islamic Fixed Term Plan II",
+    "category": "Income Fund",
+    "manager": "ABL Asset Management",
+    "nav": 10.02,
+    "aum": "2.1B",
+    "performance": {
+      "1Y": "12%",
+      "3Y": "28%",
+      "5Y": "40%"
+    },
+    "riskProfile": "Low",
+    "shariah": "Islamic",
+    "fundType": "Mutual Fund"
+  },
+  {
+    "id": 3,
+    "fundName": "Habib Islamic Equity Fund",
+    "category": "Equity Fund",
+    "manager": "Habib Asset Management",
+    "nav": 85.42,
+    "aum": "5.2B",
+    "performance": {
+      "1Y": "18.5%",
+      "3Y": "35%",
+      "5Y": "58%"
+    },
+    "riskProfile": "Medium",
+    "shariah": "Islamic",
+    "fundType": "Mutual Fund"
+  },
+  {
+    "id": 4,
+    "fundName": "JS Global Balanced Fund",
+    "category": "Balanced Fund",
+    "manager": "JS Asset Management",
+    "nav": 62.15,
+    "aum": "3.8B",
+    "performance": {
+      "1Y": "14.2%",
+      "3Y": "30%",
+      "5Y": "50%"
+    },
+    "riskProfile": "Medium",
+    "shariah": "Conventional",
+    "fundType": "Mutual Fund"
+  },
+  {
+    "id": 5,
+    "fundName": "UBL Asset Allocation Fund",
+    "category": "Balanced Fund",
+    "manager": "UBL Asset Management",
+    "nav": 45.78,
+    "aum": "2.3B",
+    "performance": {
+      "1Y": "11.8%",
+      "3Y": "26%",
+      "5Y": "42%"
+    },
+    "riskProfile": "Low",
+    "shariah": "Conventional",
+    "fundType": "Mutual Fund"
+  },
+  {
+    "id": 6,
+    "fundName": "ICBC Equity Fund",
+    "category": "Equity Fund",
+    "manager": "ICBC Asset Management",
+    "nav": 125.6,
+    "aum": "8.5B",
+    "performance": {
+      "1Y": "22.3%",
+      "3Y": "42%",
+      "5Y": "72%"
+    },
+    "riskProfile": "High",
+    "shariah": "Conventional",
+    "fundType": "Mutual Fund"
+  },
+  {
+    "id": 7,
+    "fundName": "Faysal Pension Fund - Equity",
+    "category": "Equity Fund",
+    "manager": "Faysal Asset Management",
+    "nav": 95.3,
+    "aum": "4.2B",
+    "performance": {
+      "1Y": "20.1%",
+      "3Y": "38%",
+      "5Y": "65%"
+    },
+    "riskProfile": "High",
+    "shariah": "Conventional",
+    "fundType": "Pension Fund"
+  },
+  {
+    "id": 8,
+    "fundName": "Alfalah GHP Balanced Fund",
+    "category": "Balanced Fund",
+    "manager": "Alfalah Asset Management",
+    "nav": 55.92,
+    "aum": "1.9B",
+    "performance": {
+      "1Y": "13.5%",
+      "3Y": "29%",
+      "5Y": "48%"
+    },
+    "riskProfile": "Medium",
+    "shariah": "Islamic",
+    "fundType": "Mutual Fund"
+  },
+  {
+    "id": 9,
+    "fundName": "HBL Islamic Equity Fund",
+    "category": "Equity Fund",
+    "manager": "HBL Asset Management",
+    "nav": 110.25,
+    "aum": "6.1B",
+    "performance": {
+      "1Y": "19.7%",
+      "3Y": "36%",
+      "5Y": "61%"
+    },
+    "riskProfile": "Medium",
+    "shariah": "Islamic",
+    "fundType": "Mutual Fund"
+  },
+  {
+    "id": 10,
+    "fundName": "BRR Aggressive Growth Fund",
+    "category": "Equity Fund",
+    "manager": "BRR Asset Management",
+    "nav": 156.8,
+    "aum": "3.6B",
+    "performance": {
+      "1Y": "25.2%",
+      "3Y": "45%",
+      "5Y": "75%"
+    },
+    "riskProfile": "High",
+    "shariah": "Conventional",
+    "fundType": "Mutual Fund"
+  },
+  {
+    "id": 11,
+    "fundName": "Mobilink Fixed Income Fund",
+    "category": "Income Fund",
+    "manager": "Mobilink Asset Management",
+    "nav": 42.15,
+    "aum": "1.5B",
+    "performance": {
+      "1Y": "9.2%",
+      "3Y": "22%",
+      "5Y": "38%"
+    },
+    "riskProfile": "Low",
+    "shariah": "Conventional",
+    "fundType": "Mutual Fund"
+  },
+  {
+    "id": 12,
+    "fundName": "Askari Islamic Asset Allocation",
+    "category": "Balanced Fund",
+    "manager": "Askari Asset Management",
+    "nav": 68.4,
+    "aum": "2.8B",
+    "performance": {
+      "1Y": "15.8%",
+      "3Y": "32%",
+      "5Y": "52%"
+    },
+    "riskProfile": "Medium",
+    "shariah": "Islamic",
+    "fundType": "Mutual Fund"
+  }
+]
