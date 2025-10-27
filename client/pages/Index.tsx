@@ -41,7 +41,7 @@ export default function Index() {
   useEffect(() => {
     const fetchFunds = async () => {
       try {
-        const response = await fetch("https://psxterminal.com/api/stats/REG");
+        const response = await fetch("/mutualFunds.json");
         const data = await response.json();
         setFunds(data);
         console.log("Fetched mutual funds:", data);
