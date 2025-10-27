@@ -41,7 +41,7 @@ export default function Index() {
   useEffect(() => {
     const fetchFunds = async () => {
       try {
-        const response = await fetch("/mutualFunds.json");
+        const response = await fetch("https://mutual-fund-api-bkwg.onrender.com/api/funds");
         const data = await response.json();
         setFunds(data);
         console.log("Fetched mutual funds:", data);
